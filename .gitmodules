@@ -1,0 +1,3 @@
+[submodule "mutual-information-lcc"]
+	path = mutual-information-lcc
+	url = https://github.com/umityigitbsrn/mutual-information-lcc.git
